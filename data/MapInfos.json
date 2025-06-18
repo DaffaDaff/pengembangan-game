@@ -19,5 +19,5 @@ null,
 {"id":17,"expanded":false,"name":"Downtown","order":15,"parentId":7,"scrollX":801,"scrollY":1723.5},
 {"id":18,"expanded":true,"name":"Ruang Interogasi","order":8,"parentId":9,"scrollX":982.8,"scrollY":577.1999999999999},
 {"id":19,"expanded":false,"name":"Rumah Guru","order":17,"parentId":7,"scrollX":813,"scrollY":457.5},
-{"id":20,"expanded":false,"name":"Penjara","order":9,"parentId":18,"scrollX":0,"scrollY":0}
+{"id":20,"expanded":false,"name":"Penjara","order":9,"parentId":9,"scrollX":982.8,"scrollY":577.1999999999999}
 ]
