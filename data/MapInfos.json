@@ -21,6 +21,6 @@ null,
 {"id":19,"expanded":false,"name":"Rumah Guru","order":20,"parentId":7,"scrollX":813,"scrollY":457.5},
 {"id":20,"expanded":false,"name":"Penjara","order":9,"parentId":9,"scrollX":813,"scrollY":457.5},
 {"id":21,"expanded":false,"name":"Markas","order":10,"parentId":9,"scrollX":801,"scrollY":457.5},
-{"id":22,"expanded":false,"name":"Sewer","order":18,"parentId":14,"scrollX":801,"scrollY":709.5},
-{"id":23,"expanded":false,"name":"Stone Cave","order":19,"parentId":14,"scrollX":801,"scrollY":994.5}
+{"id":22,"expanded":false,"name":"Sewer","order":18,"parentId":14,"scrollX":1858.2857142857142,"scrollY":1045.7142857142856},
+{"id":23,"expanded":false,"name":"Stone Cave","order":19,"parentId":14,"scrollX":1858.2857142857142,"scrollY":1045.7142857142856}
 ]
