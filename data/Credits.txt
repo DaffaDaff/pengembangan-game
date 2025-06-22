@@ -1,0 +1,15 @@
+<block:-1,-5,10,10,offbot,center>
+Credits
+
+5024211005
+Sulthan Daffa Arif Mahmudi
+sdaffa568@gmail.com
+
+5024211053
+M. Raidan Arsyal Yudeindra Kusyuniardi
+raidanarsyal@gmail.com
+
+
+Dosen Pengampu:
+Imam Kuswardayan
+</block>
